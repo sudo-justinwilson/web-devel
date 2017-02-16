@@ -1,0 +1,3 @@
+# sinatra
+
+Checking out the Ruby sinatra framework...
